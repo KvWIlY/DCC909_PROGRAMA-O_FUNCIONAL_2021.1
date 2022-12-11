@@ -1,0 +1,1 @@
+pertence n (x:xs) = elem n (x:xs)

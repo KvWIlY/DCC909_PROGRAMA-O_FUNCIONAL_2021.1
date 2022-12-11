@@ -1,0 +1,1 @@
+maiores_que n (x:xs) = filter (>n) (x:xs)
